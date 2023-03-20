@@ -1,0 +1,3 @@
+pip==23.0.1
+python-telegram-bot==20.1  # https://github.com/python-telegram-bot/python-telegram-bot
+python-environ==0.4.54  # https://github.com/pjialin/django-environ
